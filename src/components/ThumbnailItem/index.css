@@ -1,0 +1,14 @@
+/* Write your code here. */
+.thumbnailContainer {
+  list-style-type: none;
+  margin-right: 13px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.activeImage {
+  list-style-type: none;
+  margin-right: 13px;
+  cursor: pointer;
+  opacity: 1;
+}
